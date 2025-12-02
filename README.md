@@ -1,4 +1,4 @@
-<img width="1890" height="868" alt="image" src="https://github.com/user-attachments/assets/1446bd4a-2671-4c22-a414-63c79a04b4eb" />🍔 Food Delivery App – React JS
+🍔 Food Delivery App – React JS
 
 A modern food ordering web application built with React, Bootstrap, Mock Data, and Custom UI Components.
 
